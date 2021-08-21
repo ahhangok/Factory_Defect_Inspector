@@ -8,6 +8,7 @@
 > About 1 weeks
 
 ## DIAGRAM
+![image](https://user-images.githubusercontent.com/62680930/130320740-590d93f0-6c0f-4e6c-ac00-c9d5a1a175ba.png)
 
 
 ## Main Function
